@@ -1,0 +1,25 @@
+{
+    "redesSociales": [
+      {
+        "nombre": "Facebook",
+        "url": "https://www.facebook.com/TuPaginaDeFacebook",
+        "icono": "fab fa-facebook"
+      },
+      {
+        "nombre": "Twitter",
+        "url": "https://twitter.com/TuCuentaDeTwitter",
+        "icono": "fab fa-twitter"
+      },
+      {
+        "nombre": "Instagram",
+        "url": "https://www.instagram.com/TuCuentaDeInstagram",
+        "icono": "fab fa-instagram"
+      },
+      {
+        "nombre": "LinkedIn",
+        "url": "https://www.linkedin.com/in/TuPerfilLinkedIn",
+        "icono": "fab fa-linkedin"
+      }
+    ]
+  }
+  

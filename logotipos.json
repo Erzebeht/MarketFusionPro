@@ -1,0 +1,20 @@
+{
+    "logotipo": {
+      "nombre": "MiLogo",
+      "colorPrincipal": "#FF5733",
+      "colorSecundario": "#2E4053",
+      "tipoDeLetra": "Arial",
+      "tamanioDeLetra": "24px",
+      "estiloDeLetra": "negrita",
+      "slogan": "Diseño Creativo",
+      "icono": "logo.png"
+    },
+    "formato": {
+      "formatoArchivo": "SVG",
+      "tamanoArchivo": "50KB",
+      "resolucion": "300 dpi",
+      "areaSegura": "10px",
+      "formatoImpresion": "CMYK"
+    }
+  }
+  

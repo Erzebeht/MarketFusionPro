@@ -1,0 +1,40 @@
+{
+    "pagina": {
+      "titulo": "Mi Aplicación",
+      "descripcion": "Una aplicación de ejemplo",
+      "botones": [
+        {
+          "id": "boton1",
+          "texto": "Botón 1",
+          "accion": "hacerAlgo()"
+        },
+        {
+          "id": "boton2",
+          "texto": "Botón 2",
+          "accion": "hacerOtraCosa()"
+        }
+      ],
+      "formulario": {
+        "campos": [
+          {
+            "id": "campo1",
+            "etiqueta": "Nombre",
+            "tipo": "texto",
+            "valor": ""
+          },
+          {
+            "id": "campo2",
+            "etiqueta": "Correo electrónico",
+            "tipo": "email",
+            "valor": ""
+          }
+        ],
+        "botonSubmit": {
+          "id": "submit",
+          "texto": "Enviar",
+          "accion": "enviarFormulario()"
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "bannerWeb": {
+      "titulo": "Oferta Especial",
+      "mensaje": "¡Descuento del 20% en todos los productos!",
+      "imagen": "banner.jpg",
+      "enlace": "https://www.tusitio.com/ofertas",
+      "colorFondo": "#F2C94C",
+      "colorTexto": "#333333",
+      "tamanioTexto": "24px",
+      "boton": {
+        "texto": "Ver Ofertas",
+        "colorFondoBoton": "#FF5733",
+        "colorTextoBoton": "#FFFFFF",
+        "enlaceBoton": "https://www.tusitio.com/ofertas"
+      }
+    }
+    
+  }
+  
